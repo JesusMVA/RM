@@ -37,6 +37,6 @@ return {
     prev,
     page
 }
-
-
 }
+
+export default useRick
